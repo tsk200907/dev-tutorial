@@ -27,3 +27,5 @@ root权限获取
 在线安装软件
     CentOS使用的是yum命令
     Ubuntu中使用的是apt-get命令。yum中还有一个从软件源中搜索某个软件的方法：yum search +软件名
+
+-------摘抄自网络……^^
